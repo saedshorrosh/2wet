@@ -1,0 +1,3 @@
+/Users/saed_shorrosh/CLionProjects/2wet/cmake-build-debug/CMakeFiles/2wet.dir
+/Users/saed_shorrosh/CLionProjects/2wet/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/saed_shorrosh/CLionProjects/2wet/cmake-build-debug/CMakeFiles/rebuild_cache.dir
